@@ -67,9 +67,6 @@ Compared order distribution across sales channels such as Amazon, Myntra, Ajio, 
 
 The dashboard helps business stakeholders understand customer behavior, monitor sales performance, and make data-driven decisions.
 
-## Dashboard Preview
-
-![Sales Dashboard](sales-dashboard.png)
 
 ## Author
 
