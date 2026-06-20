@@ -69,7 +69,7 @@ The dashboard helps business stakeholders understand customer behavior, monitor 
 
 ## Dashboard Preview
 
-![Dashboard](Sales Dashboard.png)
+![Sales Dashboard](Sales Dashboard.png)
 
 ## Author
 
